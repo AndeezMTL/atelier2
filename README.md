@@ -1,4 +1,4 @@
-# Node
+# Feuille de note
 node sert a te permettre de travailler avec react ou les autres frameworks
 Axios est comme fetch c'est native donc pas besoin d'installer mais Axios c'est une librairie donc faut installer 
 Il faut installer les routes react
